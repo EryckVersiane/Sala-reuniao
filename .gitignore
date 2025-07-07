@@ -4,8 +4,12 @@ wordpress_data/
 !wordpress_data/wp-content/
 !wordpress_data/wp-content/themes/
 !wordpress_data/wp-content/themes/twentytwentyfive/
-
 !wordpress_data/wp-content/themes/twentytwentyfive/custom.css
 !wordpress_data/wp-content/themes/twentytwentyfive/functions.php
 !wordpress_data/wp-content/themes/twentytwentyfive/header_cadastro.php
 !wordpress_data/wp-content/themes/twentytwentyfive/page-apresentacao.php
+
+!wordpress_data/wp-content/themes/carrossel/
+!wordpress_data/wp-content/themes/carrossel/s1.png
+!wordpress_data/wp-content/themes/carrossel/s2.png
+!wordpress_data/wp-content/themes/carrossel/s3.png
